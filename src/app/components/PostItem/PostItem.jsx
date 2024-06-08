@@ -7,9 +7,9 @@ const PostItem = () => {
     <Link href="">
       <div className="box-border p-4 md:p-6">
         <span className="mb-2 md:mb-0">
-          <Link href="">Author's name</Link>
+          <Link href="">Author</Link>
           <span className='text-gray-50 dark:text-gray-400'> • </span>
-          <Link href="">Topic's name</Link>
+          <Link href="">Topic name</Link>
           <span className='text-gray-50 dark:text-gray-400'> • </span>
           <Link href="" className='text-gray-50 dark:text-gray-400'>May 2024</Link>
         </span>
