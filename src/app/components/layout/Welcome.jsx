@@ -10,7 +10,7 @@ const Welcome = () => {
 
 
             <p className='text-[16px] mt-[25px] mx-[0] mb-[30px]'>
-            Welcome to PostHub, the ultimate platform for writers and readers. Dive into a world of captivating stories, insightful articles, and thought-provoking ideas. Whether you're here to share your knowledge or discover new perspectives, PostHub is your gateway to a vibrant community of minds.
+            Welcome to PostHub, the ultimate platform for writers and readers. Dive into a world of captivating stories, insightful articles, and thought-provoking ideas. Whether you are here to share your knowledge or discover new perspectives, PostHub is your gateway to a vibrant community of minds.
             </p>
         </div>
     </section>
