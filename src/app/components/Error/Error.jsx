@@ -8,7 +8,7 @@ export default function Error() {
           <div className="mt-4 text-center">
             <h3 className="text-lg font-medium">Oops, something went wrong</h3>
             <p className="mt-2">
-              We're sorry, but an error has occurred. Please try again later.
+              Sorry, but an error has occurred. Please try again later.
             </p>
           </div>
         </div>

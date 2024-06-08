@@ -9,9 +9,7 @@ const PostItem = ( { title, body, views, tags, reactions, username, id } ) => {
         <span className="mb-2 md:mb-0">
           <Link href="">{ username }</Link>
           <span className='text-gray-50 dark:text-gray-400'> • </span>
-          <Link href="">Topic name</Link>
-          <span className='text-gray-50 dark:text-gray-400'> • </span>
-          <Link href="" className='text-gray-50 dark:text-gray-400'>May 2024</Link>
+          <Link href="" className='text-gray-50 dark:text-gray-400'>Selected for you</Link>
         </span>
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex-1 pr-0 md:pr-4">
