@@ -2,7 +2,7 @@ import React from 'react'
 
 const Welcome = () => {
   return (
-    <section className="w-full h-screen bg-cover items-center pt-[50px] px-[8%] pb-[0] flex font-mono" id="welcome">
+    <section className="w-full h-screen bg-cover items-center pt-[50px] px-[8%] pb-[0] flex font-mono bg-white text-black" id="welcome">
         <div className="max-w-[630px]">
             <h1 className='text-[45px] leading-[1.2]'>Share</h1>
             <h1 className='text-[45px] leading-[1.2]'>Inspire</h1>
