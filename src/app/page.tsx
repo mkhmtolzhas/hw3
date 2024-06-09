@@ -91,7 +91,7 @@ export default function Home() {
             </button>
           </form>
           <div className="text-center text-sm text-gray-600 ">
-            Don't have an account?{" "}
+            Do not have an account?{" "}
             <a href="#" className="font-medium text-gray-900 hover:underline">
               Register
             </a>
